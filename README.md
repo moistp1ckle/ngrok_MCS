@@ -1,2 +1,2 @@
-# ngrok_MCS
+# ngrok MCS
 ngrok Minecraft Server Scanner
