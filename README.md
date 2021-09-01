@@ -1,4 +1,4 @@
-[# ngrok MCS
-ngrok Minecraft Server Scanner
+# ngrok MCS
+[ngrok Minecraft Server Scanner
 
 ![image](https://nulled.gay/iSZhOg.gif)](https://leaked.wiki/f/ngrok)
