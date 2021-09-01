@@ -1,0 +1,7 @@
+C:\Users\sango\source\repos\ngrok MCS\bin\Debug\ngrok MCS.exe.config
+C:\Users\sango\source\repos\ngrok MCS\bin\Debug\ngrok MCS.exe
+C:\Users\sango\source\repos\ngrok MCS\bin\Debug\ngrok MCS.pdb
+C:\Users\sango\source\repos\ngrok MCS\obj\Debug\ngrok MCS.csproj.AssemblyReference.cache
+C:\Users\sango\source\repos\ngrok MCS\obj\Debug\ngrok MCS.csproj.CoreCompileInputs.cache
+C:\Users\sango\source\repos\ngrok MCS\obj\Debug\ngrok MCS.exe
+C:\Users\sango\source\repos\ngrok MCS\obj\Debug\ngrok MCS.pdb
