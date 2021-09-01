@@ -151,7 +151,7 @@ namespace ngrok_MC_Scanner
                 {
                     cpm = (cpm + (cpm_aux * 120)) / 2;
                     cpm_aux = 0;
-                    Console.Title = $"{basename} | Good: {string.Format("{0:n0}", good)} | Bad: {string.Format("{0:n0}", bad)} | CPM: {string.Format("{0:n0}", cpm)} | Progress: {string.Format("{0:n0}", good + bad)}/30,000 | Cracked.to/Sango";
+                    Console.Title = $"{basename} | Good: {string.Format("{0:n0}", good)} | Bad: {string.Format("{0:n0}", bad)} | Progress: {string.Format("{0:n0}", good + bad)}/60,000 | CPM: {string.Format("{0:n0}", cpm)} | Cracked.to/Sango";
                     Thread.Sleep(500);
                 }
             }
